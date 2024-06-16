@@ -7,7 +7,7 @@
 ![Screenshot7](Images/Screenshots/Screenshot7.png)
 
 # Sudoku
-Sudoku game with notes, automatic solve button and difficulty optionss
+Sudoku game with notes, automatic solve button and difficulty options
 
 ## Built with:
 Java
